@@ -137,6 +137,15 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: -3617990508975005978, guid: d807ddfdd6d431246bf935cc46f5be85, type: 2}
+  - {fileID: 5938921174217877816, guid: 2ac473561075353489361383c1830bcc, type: 2}
+  - {fileID: 0}
+  - {fileID: -8833135876517268050, guid: 43545b6318796ac40b755e43f9b06fb2, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -615,11 +624,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template3D
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: D:\PFE\PFE ACC\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 802a081710d7d901
+  metroCertificateNotAfter: 800de5f895d7d901
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: PFE ACC
